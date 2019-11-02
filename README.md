@@ -1,6 +1,7 @@
 # crypter
 A encrypt and decrypt commandLine tool
 
+```shell
 Usage of crypter:
   -data string
     	input a string data
@@ -8,3 +9,4 @@ Usage of crypter:
     	optional: Specify the key used for encryption and decryption (default "!@#lrx00")
   -mode string
     	the mode can only be "encode" or "decode"
+```
